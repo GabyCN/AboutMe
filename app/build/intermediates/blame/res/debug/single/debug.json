@@ -28,6 +28,10 @@
         "source": "C:\\Users\\carab\\AndroidStudioProjects\\AboutMe\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
+        "merged": "C:\\Users\\carab\\AndroidStudioProjects\\AboutMe\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto.ttf.flat",
+        "source": "C:\\Users\\carab\\AndroidStudioProjects\\AboutMe\\app\\src\\main\\res\\font\\roboto.ttf"
+    },
+    {
         "merged": "C:\\Users\\carab\\AndroidStudioProjects\\AboutMe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\carab\\AndroidStudioProjects\\AboutMe\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
@@ -62,6 +66,10 @@
     {
         "merged": "C:\\Users\\carab\\AndroidStudioProjects\\AboutMe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\carab\\AndroidStudioProjects\\AboutMe\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\carab\\AndroidStudioProjects\\AboutMe\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_thin.ttf.flat",
+        "source": "C:\\Users\\carab\\AndroidStudioProjects\\AboutMe\\app\\src\\main\\res\\font\\roboto_thin.ttf"
     },
     {
         "merged": "C:\\Users\\carab\\AndroidStudioProjects\\AboutMe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",

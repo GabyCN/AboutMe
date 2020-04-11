@@ -542,6 +542,7 @@ dimen hint_alpha_material_dark
 dimen hint_alpha_material_light
 dimen hint_pressed_alpha_material_dark
 dimen hint_pressed_alpha_material_light
+dimen layout_margin
 dimen notification_action_icon_size
 dimen notification_action_text_size
 dimen notification_big_circle_margin
@@ -557,6 +558,8 @@ dimen notification_small_icon_size_as_large
 dimen notification_subtext_size
 dimen notification_top_pad
 dimen notification_top_pad_large_text
+dimen padding
+dimen small_padding
 dimen text_size
 dimen tooltip_corner_radius
 dimen tooltip_horizontal_padding
@@ -676,6 +679,8 @@ drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+font roboto
+font roboto_thin
 id ALT
 id CTRL
 id FUNCTION
@@ -740,6 +745,8 @@ id always
 id async
 id barrier
 id beginning
+id bio_scroll
+id bio_text
 id blocking
 id bottom
 id buttonPanel
@@ -776,6 +783,7 @@ id image
 id info
 id invisible
 id italic
+id ivStar
 id left
 id line1
 id line3
@@ -941,9 +949,11 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
+string bio
 string name
 string search_menu_title
 string status_bar_notification_info_overflow
+string yellow_star
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog
@@ -1106,6 +1116,7 @@ style Base_Widget_AppCompat_TextView
 style Base_Widget_AppCompat_TextView_SpinnerItem
 style Base_Widget_AppCompat_Toolbar
 style Base_Widget_AppCompat_Toolbar_Button_Navigation
+style NameStyle
 style Platform_AppCompat
 style Platform_AppCompat_Light
 style Platform_ThemeOverlay_AppCompat
