@@ -749,6 +749,7 @@ id bio_scroll
 id bio_text
 id blocking
 id bottom
+id btnDone
 id buttonPanel
 id center_vertical
 id chains
@@ -768,6 +769,7 @@ id direct
 id disableHome
 id edit_query
 id end
+id etNickname
 id expand_activities_button
 id expanded_menu
 id forever
@@ -860,6 +862,7 @@ id title_template
 id top
 id topPanel
 id tvName
+id tvNickname
 id unchecked
 id uniform
 id up
@@ -950,7 +953,9 @@ string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
 string bio
+string done
 string name
+string nickname
 string search_menu_title
 string status_bar_notification_info_overflow
 string yellow_star
