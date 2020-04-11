@@ -24,12 +24,12 @@
         "source": "C:\\Users\\carab\\AndroidStudioProjects\\AboutMe\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\carab\\AndroidStudioProjects\\AboutMe\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\carab\\AndroidStudioProjects\\AboutMe\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
         "merged": "C:\\Users\\carab\\AndroidStudioProjects\\AboutMe\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto.ttf.flat",
         "source": "C:\\Users\\carab\\AndroidStudioProjects\\AboutMe\\app\\src\\main\\res\\font\\roboto.ttf"
+    },
+    {
+        "merged": "C:\\Users\\carab\\AndroidStudioProjects\\AboutMe\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\carab\\AndroidStudioProjects\\AboutMe\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "C:\\Users\\carab\\AndroidStudioProjects\\AboutMe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
