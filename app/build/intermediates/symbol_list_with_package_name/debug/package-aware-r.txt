@@ -760,6 +760,7 @@ id content
 id contentPanel
 id custom
 id customPanel
+id dataBinding
 id decor_content_parent
 id default_activity_button
 id dialog_button
@@ -801,6 +802,8 @@ id notification_main_column
 id notification_main_column_container
 id off
 id on
+id onAttachStateChangeListener
+id onDateChanged
 id packed
 id parent
 id parentPanel
@@ -854,6 +857,7 @@ id text
 id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
+id textWatcher
 id time
 id title
 id titleDividerNoCustom
